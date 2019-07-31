@@ -29,6 +29,9 @@ Sample website with plenty of files for demos
 ## Deployment with two hashes
 ### Deployment with three hashes
 
+###Copyright
+Git bla bla
+
 This is basic bitch
 
 gasdkfjak;dsfjk;sadfjklasdfkjak;ldsf;jl
